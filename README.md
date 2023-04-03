@@ -3,7 +3,7 @@
   
   #### Sobre
 
-  Sou Geógrafo e graduando em análise e desenvolvimento de sistemas e ciência de dados. 
+  Sou Geógrafo, graduando em análise e desenvolvimento de sistemas e ciência de dados. 
   
   #### Minhas principais linguagens de programação são: 
   
