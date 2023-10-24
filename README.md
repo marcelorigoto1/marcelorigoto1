@@ -1,11 +1,11 @@
-### Olá, eu sou Marcelo
+### Hello, I am Marcelo
 <b> 
   
-  #### Sobre
+  #### About
 
-  Sou Geógrafo, graduando em análise e desenvolvimento de sistemas e ciência de dados. 
+  I am a Geographer, currently studying analysis and systems development, and data science.
   
-  #### Minhas principais linguagens de programação são: 
+  #### My main programming languages are:
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelorigoto1)](https://github.com/anuraghazra/github-readme-stats)
 
