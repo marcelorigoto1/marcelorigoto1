@@ -3,7 +3,11 @@
   
   #### About
 
-  I am a Geographer, currently studying analysis and systems development, and data science.
+  I am a Geographer, Analysis and systems developer, and data science enthusiast.
+
+  And oh, most important a Student in the Master Programn of Copernicus Master in Digital Earth. :)
+
+  I love programing and also gaming, so hope you can see a lot of unity projects in the near future.
 
   My LinkedkIn page: https://www.linkedin.com/in/marcelorigoto/
 
